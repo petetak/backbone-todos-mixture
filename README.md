@@ -1,0 +1,1 @@
+In response to a Mixture support request this is a very quick demo of setting up a Backbone project in Mixture.  In reality a real project would be more complex - this just gives a quick starting point to try it out.
