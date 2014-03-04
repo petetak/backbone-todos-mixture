@@ -6,7 +6,7 @@
   "preprocessorLocations": "assets",
   "preprocessorScriptOutput": "assets/scripts",
   "preprocessorStyleOutput": "assets/css",
-  "projectDescription": "A simple empty boilerplate for a fresh start",
+  "projectDescription": "Backbone todos example as a Mixture project",
   "projectName": "backbone-todos",
   "publishedId": null,
   "serverHostname": null,
